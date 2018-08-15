@@ -1,0 +1,26 @@
+{
+  "name": "purescript-has-js-rep",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/purescript-has-js-rep.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-functions": "^4.0.0",
+    "purescript-variant": "^5.0.0",
+    "purescript-foreign-object": "^1.0.0",
+    "purescript-nullable": "^4.0.0",
+    "purescript-aff-promise": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-record-format": "^0.1.0"
+  }
+}
